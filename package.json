@@ -1,0 +1,19 @@
+{
+  "name": "cypress",
+  "version": "1.0.0",
+  "description": "e2e tests",
+  "main": "index.js",
+  "scripts": {
+    "cypress:open": "cypress open"
+  },
+  "author": "Mykola Konotop",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^13.6.0",
+    "cypress-iframe": "^1.0.1",
+    "mocha": "^10.2.0"
+  },
+  "dependencies": {
+    "dayjs": "^1.11.10"
+  }
+}

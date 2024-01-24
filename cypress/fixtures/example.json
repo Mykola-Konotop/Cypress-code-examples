@@ -1,0 +1,13 @@
+{
+  "userName": "Mykola",
+  "email": ["user1@test.com", "user2@test.com"],
+  "password": "_aA1234567",
+  "productName": ["Cypress Product", "Cypress Track LOT", "Cypress Can Expire"],
+  "productSKU": ["cypress_pro", "cypress_track", "cypress_expire"],
+  "totalQuantity": "100",
+  "quantityOfBox": "2",
+  "quantityPerBox": ["50", "40", "60"],
+  "lotId": ["LOT_1", "LOT_2"],
+  "trackingNumber": 1234567890,
+  "body": "Fixtures are a great way to mock data for responses to routes"
+}
